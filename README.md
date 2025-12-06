@@ -36,7 +36,7 @@ If you want to search & filters the complete database of [Mathematics one word d
 | theory.space       | premium   | 82       | 80%    | 6      |                                                     |                  |                  |
 | theory.store       | premium   | 82       | 80%    | 6      |                                                     |                  |                  |
 | theory.zone        | available | 82       | 80%    | 6      |                                                     |                  |                  |
-| mathematics.app    | available | 64       | 92%    | 11     |                                                     |                  |                  |
+| mathematics.app    | premium   | 64       | 92%    | 11     |                                                     |                  |                  |
 | mathematics.cloud  | premium   | 64       | 92%    | 11     |                                                     |                  |                  |
 | mathematics.expert | expiring  | 64       | 92%    | 11     | GoDaddy.com, LLC                                    | 14/07/2022 11:44 | 14/07/2025 11:44 |
 | mathematics.it     | resell    | 64       | 92%    | 11     |                                                     | 20/12/2023 16:00 | 20/12/2025 00:00 |

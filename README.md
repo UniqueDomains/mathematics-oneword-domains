@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Mathematics one word d
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar                                    | Created          | Expires          |
-| ----------------- | --------- | -------- | ------ | ------ | -------------------------------------------- | ---------------- | ---------------- |
-| theory.la         | resell    | 82       | 21%    | 6      | VIPDomains.LA  Founders Program              | 24/06/2022 23:15 | 24/06/2026 23:59 |
-| theory.law        | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.lawyer     | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.lease      | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.legal      | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.lgbt       | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.lifestyle  | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.lighting   | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.limited    | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.limo       | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.link       | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.living     | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.loan       | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.loans      | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.locker     | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.london     | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.love       | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.ltda       | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.luxe       | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.luxury     | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.maison     | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.makeup     | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.management | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.market     | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.marketing  | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.mba        | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.me         | resell    | 82       | 21%    | 6      | Dynadot Inc                                  | 09/07/2008 17:09 | 09/07/2027 17:09 |
-| theory.media      | resell    | 82       | 21%    | 6      | Xiamen ChinaSource Internet Service Co., Ltd | 25/03/2025 15:15 | 25/03/2026 15:15 |
-| theory.melbourne  | available | 82       | 21%    | 6      |                                              |                  |                  |
-| theory.meme       | available | 82       | 21%    | 6      |                                              |                  |                  |
+| Domain             | Status    | Attract. | Demand | Length | Registrar       | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | --------------- | ---------------- | ---------------- |
+| theory.academy     | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.accountant  | premium   | 82       | 21%    | 6      |                 |                  |                  |
+| theory.accountants | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.actor       | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.adult       | premium   | 82       | 21%    | 6      |                 |                  |                  |
+| theory.ag          | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.airforce    | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.apartments  | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.app         | resell    | 82       | 21%    | 6      | Porkbun LLC     | 09/02/2025 11:06 | 09/02/2026 11:06 |
+| theory.archi       | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.army        | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.art         | premium   | 82       | 21%    | 6      |                 |                  |                  |
+| theory.at          | premium   | 82       | 21%    | 6      |                 |                  |                  |
+| theory.attorney    | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.audio       | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.auto        | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.autos       | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.bar         | premium   | 82       | 21%    | 6      |                 |                  |                  |
+| theory.bargains    | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.bayern      | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.beauty      | resell    | 82       | 21%    | 6      | Spaceship, Inc. | 17/01/2025 07:12 | 17/01/2026 23:59 |
+| theory.beer        | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.berlin      | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.best        | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.bid         | premium   | 82       | 21%    | 6      |                 |                  |                  |
+| theory.bike        | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.bingo       | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.black       | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.blackfriday | available | 82       | 21%    | 6      |                 |                  |                  |
+| theory.blog        | premium   | 82       | 21%    | 6      |                 |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Mathematics-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -89,7 +89,7 @@ If you want to search & filters the complete database of [Mathematics one word d
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 29,681       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 59,909       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expiring | 61,144       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 4,569,375    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 

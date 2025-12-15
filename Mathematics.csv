@@ -797,7 +797,7 @@ b4cce990-8892-48fd-a0db-18dbd5fa7e06,calculus.so,available,58,80,8,,,
 e762ee1c-c6aa-41b7-b57a-b791c6906135,analysis.accountants,available,80,18,8,,,
 2ac535cb-530f-4b16-8b54-0857f3e2028d,analysis.actor,available,80,18,8,,,
 e8b1f1bc-b652-40c1-8b01-f4227d7e4a8f,analysis.adult,available,80,18,8,,,
-d17fb4ef-7e98-45a1-89ed-2fb32717d388,analysis.agency,resell,80,18,8,"Sav.com, LLC - 4",13/01/2025 15:15,13/01/2026 15:15
+d17fb4ef-7e98-45a1-89ed-2fb32717d388,analysis.agency,expiring,80,18,8,"Sav.com, LLC - 4",13/01/2025 15:15,13/01/2026 15:15
 1c1c6865-381a-4991-b271-ab0cd45b337f,analysis.ai,expiring,80,18,8,Marcaria International LLC,16/12/2017 01:22,07/01/2026 01:22
 6a478428-617a-480b-a827-ddb85f878079,analysis.airforce,available,80,18,8,,,
 66458bf7-632c-4f2c-9ade-bf2a747a1229,analysis.apartments,available,80,18,8,,,
@@ -839,7 +839,7 @@ f40e7e4e-6bdf-492b-986e-e0c037b12c97,analysis.build,premium,80,18,8,,,
 1e083aa2-3535-4a0c-945f-5055c2235db1,analysis.bz,available,80,18,8,,,
 6d127559-c911-4794-a9d7-ea61a0847a70,analysis.cab,available,80,18,8,,,
 fb381884-3117-436b-a3b7-6da4bfff876e,analysis.cafe,available,80,18,8,,,
-f93ab17d-b1ab-40cc-82d9-50726e7f3c13,analysis.cam,sold,80,18,8,"Spaceship, Inc.",27/10/2023 18:09,27/10/2026 23:59
+f93ab17d-b1ab-40cc-82d9-50726e7f3c13,analysis.cam,expired,80,18,8,"Spaceship, Inc.",27/10/2023 18:09,27/10/2025 23:59
 c71749e7-6634-44a8-8643-a8e5576704fb,analysis.camera,available,80,18,8,,,
 a7da81d9-9895-4f13-9dad-8d5dbbdb8088,analysis.camp,available,80,18,8,,,
 82825402-4b48-441b-b3c7-9018e2e2a336,analysis.capital,available,80,18,8,,,
@@ -869,7 +869,7 @@ fee912c2-b1d7-4e44-9b5a-61a2baf7036d,analysis.coach,available,80,18,8,,,
 0a24b64d-7039-4b8e-a0c0-27b842ac85bd,analysis.codes,available,80,18,8,,,
 0c52948d-1d89-4bd7-9358-5b9ff9bea289,analysis.coffee,available,80,18,8,,,
 7e4d6346-869c-434f-8936-1d5b7a04654b,analysis.college,available,80,18,8,,,
-56df6a7c-e219-4369-b4ac-f4db533cec1a,analysis.company,expiring,80,18,8,"GoDaddy.com, LLC",09/12/2024 19:38,09/12/2025 19:38
+56df6a7c-e219-4369-b4ac-f4db533cec1a,analysis.company,sold,80,18,8,"GoDaddy.com, LLC",09/12/2024 19:38,09/12/2026 19:38
 d40b8a32-0df2-4e03-9301-b746afbf9e3c,analysis.computer,available,80,18,8,,,
 951a216e-705d-4750-ba1f-89f9b2abb26b,analysis.condos,available,80,18,8,,,
 68ede4d5-e40e-4152-a070-6ed155e898ca,analysis.construction,available,80,18,8,,,
@@ -917,7 +917,7 @@ b3fd389f-18a5-45d0-aa35-da37d6a9d580,analysis.dog,available,80,18,8,,,
 cf0a7a4e-3c85-4baf-a18b-b4b5d61c1e2d,analysis.equipment,available,80,18,8,,,
 f5659df0-71d4-4089-af01-4889ed5d41fc,analysis.esq,premium,80,18,8,,,
 aab6de73-7f50-446f-b5eb-22977e153a9d,analysis.estate,available,80,18,8,,,
-913ff629-79b8-4dfc-ab0e-9b5200ddbc2c,analysis.eu,premium,80,18,8,,,
+913ff629-79b8-4dfc-ab0e-9b5200ddbc2c,analysis.eu,resell,80,18,8,Name: TLD Registrar Solutions Ltd,,
 247bf9f9-bc24-427b-aa4e-ce094228d4a8,analysis.events,available,80,18,8,,,
 c69763d2-16ab-4f75-ae97-89b64a987326,analysis.expert,premium,80,18,8,,,
 4c5b5455-c23d-4f4f-ba7c-2cb67841ad00,analysis.exposed,available,80,18,8,,,

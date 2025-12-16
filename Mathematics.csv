@@ -405,6 +405,7 @@ c7c72462-32e5-44ea-81c0-3ca2d31678f7,geometry.adult,available,68,21,8,,,
 c56af062-ed76-49c5-a28c-455fe00deb0b,geometry.ag,available,68,21,8,,,
 a35576af-26ec-47de-8d0d-94c9147ab6e2,geometry.airforce,available,68,21,8,,,
 9c31bb56-0948-4443-835c-627e67b45a7b,geometry.apartments,available,68,21,8,,,
+023c7764-c461-422f-9e21-e51d2772c6ee,geometry.app,expiring,68,21,8,Namecheap Inc.,15/01/2023 03:56,15/01/2026 03:56
 2bae0667-2ff8-4eff-a96f-f442dd4291a1,geometry.archi,available,68,21,8,,,
 14547778-0de8-4522-b8ad-47cdd9fb0292,geometry.army,available,68,21,8,,,
 637b578c-6886-4368-a3e9-292a0bd7808e,geometry.asia,available,68,21,8,,,
@@ -448,7 +449,7 @@ c0583520-f1b3-4c8e-988f-546dcab8ec44,geometry.builders,available,68,21,8,,,
 053dbbb8-12e9-4283-bd07-693f2da7a150,geometry.car,available,68,21,8,,,
 895f2634-1cf0-4d06-8172-712aa3b4e32f,geometry.cards,available,68,21,8,,,
 e1433e05-26e5-406e-b2a2-add45a70d40a,geometry.care,available,68,21,8,,,
-70b7ddf8-bd8e-4100-804b-017167e267fe,geometry.careers,expiring,68,21,8,InterNetX GmbH,11/12/2017 13:54,11/12/2025 13:54
+70b7ddf8-bd8e-4100-804b-017167e267fe,geometry.careers,expired,68,21,8,InterNetX GmbH,11/12/2017 13:54,11/12/2025 13:54
 6cf2c027-a20f-4358-bbba-8ecfea3ae359,geometry.cars,available,68,21,8,,,
 c2d388d9-84bd-4ba0-87ce-e94eeb0ab3d9,geometry.cash,available,68,21,8,,,
 7bd12ac3-f80a-48b5-b121-f8e3527c8c91,geometry.casino,available,68,21,8,,,
@@ -495,7 +496,7 @@ f54e7f41-d49e-4f0c-982d-7705a16122bb,geometry.delivery,available,68,21,8,,,
 9e1bd999-beea-425e-81f9-d555754727a3,geometry.democrat,available,68,21,8,,,
 a575632a-7a91-4cf3-96ca-f074c97ac089,geometry.dental,available,68,21,8,,,
 2ed7a1ec-e117-429e-8bd6-b3c0797ae79a,geometry.dentist,available,68,21,8,,,
-1791e67c-5227-4af3-baad-dedc2021b25c,geometry.design,expiring,68,21,8,InternetX GmbH,11/12/2017 13:54,11/12/2025 23:59
+1791e67c-5227-4af3-baad-dedc2021b25c,geometry.design,expired,68,21,8,InternetX GmbH,11/12/2017 13:54,11/12/2025 23:59
 55044a80-761d-4f9a-bc31-018651a3038c,geometry.diamonds,available,68,21,8,,,
 fd17532c-c1b7-4f22-b219-e8ab43dbe9b4,geometry.diet,available,68,21,8,,,
 29737861-0714-42dd-803d-4a636c204f8c,geometry.digital,resell,68,21,8,"Sav.com, LLC - 31",09/09/2025 15:15,09/09/2026 15:15
@@ -572,7 +573,7 @@ db9dadb3-d853-4269-814c-8ac6d95e8a27,geometry.holiday,available,68,21,8,,,
 3be36bd4-9512-4299-920c-2619bc5766ff,geometry.homes,available,68,21,8,,,
 003667f7-24ce-4bc5-884d-f37355f69f84,geometry.horse,available,68,21,8,,,
 22ef4923-f9ad-4a9a-a5d1-23dbb31ebe8a,geometry.hospital,available,68,21,8,,,
-b16771d3-b6d4-4df0-9418-eb02a632eb77,geometry.host,expiring,68,21,8,"HOSTINGER operations, UAB",14/12/2024 05:48,14/12/2025 23:59
+b16771d3-b6d4-4df0-9418-eb02a632eb77,geometry.host,sold,68,21,8,"HOSTINGER operations, UAB",14/12/2024 05:48,14/12/2026 23:59
 57fc9683-b6ff-4c0f-9475-f646dc5080e9,geometry.hosting,available,68,21,8,,,
 8f8c42b1-21c4-4cbd-898c-e50a09ade995,geometry.hot,premium,68,21,8,,,
 d8e7aa3e-8eff-4707-aae9-059a3951c132,geometry.how,premium,68,21,8,,,
@@ -735,7 +736,7 @@ fc8bfbad-1390-4a6d-8d1b-d0bca3ddfdcc,geometry.supplies,available,68,21,8,,,
 f9b66905-1172-46fe-aec2-25cc01d8ed1d,geometry.tattoo,available,68,21,8,,,
 6ad3b411-f238-42c1-8553-6460d2667a1e,geometry.tax,available,68,21,8,,,
 b9cbc7d7-0409-45e5-bb4b-6586c186ed4b,geometry.taxi,available,68,21,8,,,
-b51e6f51-097b-4e90-97b6-2e4487fd73bd,geometry.team,expiring,68,21,8,InterNetX GmbH,11/12/2017 13:54,11/12/2025 13:54
+b51e6f51-097b-4e90-97b6-2e4487fd73bd,geometry.team,sold,68,21,8,InterNetX GmbH,11/12/2017 13:54,11/12/2026 13:54
 eea9a1ea-0309-421c-b971-9c7b683dba81,geometry.tel,available,68,21,8,,,
 93c722a1-99a7-481d-b9bb-034b6cc310cf,geometry.tennis,available,68,21,8,,,
 1a44e869-9bf9-4ca4-ab00-edbca5a31d9e,geometry.theater,available,68,21,8,,,
@@ -744,6 +745,7 @@ eea9a1ea-0309-421c-b971-9c7b683dba81,geometry.tel,available,68,21,8,,,
 7e13d89a-2810-4ae8-9390-46187733e6f3,geometry.tienda,available,68,21,8,,,
 f92d7f38-66b0-42d7-8a2a-ecba7c8de552,geometry.tips,available,68,21,8,,,
 36024b77-7cf5-44bc-b101-7923b6855bef,geometry.tires,available,68,21,8,,,
+a28dbc93-bf57-4e2d-965b-53e8c44a73e7,geometry.to,resell,68,21,8,NAMECHEAP,12/04/2023 02:27,01/08/2026 00:00
 babfd7bd-7264-4819-86e1-658120941700,geometry.tours,available,68,21,8,,,
 37cc5aca-e63a-46f0-9263-5aea10716d8e,geometry.town,available,68,21,8,,,
 7baab067-bdf8-49eb-851f-ede06a52558d,geometry.toys,available,68,21,8,,,
@@ -997,5 +999,3 @@ effdf334-ad1f-4ba5-a06f-d4c8df4565cc,analysis.international,available,80,18,8,,,
 c485d05d-7a23-4b4f-8abb-681bfa5410ca,analysis.investments,premium,80,18,8,,,
 00644296-8bde-4f51-a773-ba83eaab2849,analysis.io,resell,80,18,8,"Sav.com, LLC",09/01/2020 14:30,09/01/2027 14:30
 41c07935-a0de-48a3-b66d-60612128df05,analysis.irish,available,80,18,8,,,
-1351309d-c606-4783-8bc0-8a822b30fa87,analysis.jetzt,available,80,18,8,,,
-5714160d-a698-41d9-b75f-1ed2987e93b8,analysis.jewelry,available,80,18,8,,,

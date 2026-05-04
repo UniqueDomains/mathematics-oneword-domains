@@ -1,22 +1,22 @@
-# Mathematics One-Word Domains (13,076)
+# Mathematics Keyword Domains (12,079)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C076%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C079%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of mathematics one-word domains from Unique Domains.
+These domains are mathematics-related names matched to the keyword mathematics, spanning 12,079 listings across 505 TLDs. Median ask is 565.75. Updated daily, this selection ranges from direct terms like math.download to broader concepts like theory.kiwi and vector.free.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,076 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,079 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,076 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,079 domains · **Median ask:** $565.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Mathematics`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| algebra.zone       | available | $51.98     | —             | 68             | 88     | 7      | namecheap                                           |
-| calculus.me        | resell    | $12,648.85 | $27.99        | 58             | 80     | 8      | Dynadot Inc                                         |
-| algebra.tech       | premium   | $312.50    | $1,250        | 68             | 88     | 7      | name.com                                            |
-| algebra.ninja      | available | $42.98     | —             | 68             | 88     | 7      | namecheap                                           |
-| geometry.services  | resell    | $51.98     | —             | 68             | 22     | 8      | GoDaddy.com, LLC                                    |
-| algebra.store      | premium   | $156.25    | $625          | 68             | 88     | 7      | name.com                                            |
-| algebra.gg         | available | $82.98     | —             | 68             | 88     | 7      | namecheap                                           |
-| geometry.info      | resell    | $2,528.85  | $35.99        | 68             | 22     | 8      | GoDaddy.com, LLC                                    |
-| algebra.space      | premium   | $325       | $1,300        | 68             | 88     | 7      | namecheap                                           |
-| calculus.zone      | available | $51.98     | —             | 58             | 80     | 8      | namecheap                                           |
-| mathematics.net    | resell    | $19,550    | $23.99        | 64             | 19     | 11     | Network Solutions, LLC                              |
-| algebra.site       | premium   | $312.50    | $1,250        | 68             | 88     | 7      | name.com                                            |
-| calculus.ninja     | available | $42.98     | —             | 58             | 80     | 8      | namecheap                                           |
-| mathematics.org    | resell    | —          | —             | 64             | 92     | 11     | 1API GmbH                                           |
-| algebra.online     | premium   | $312.50    | $1,250        | 68             | 88     | 7      | name.com                                            |
-| calculus.gg        | available | $82.98     | —             | 58             | 80     | 8      | namecheap                                           |
-| mathematics.online | resell    | —          | —             | 64             | 92     | 11     | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| algebra.expert     | premium   | $128.70    | $128.70       | 68             | 88     | 7      | namecheap                                           |
-| analysis.beer      | available | $41.98     | —             | 80             | 24     | 8      | namecheap                                           |
-| mathematics.it     | resell    | —          | —             | 64             | 92     | 11     | —                                                   |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar              |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| math.download     | premium   | —          | —             | 94             | 43     | 4      | —                      |
+| math.lawyer       | premium   | —          | —             | 94             | 43     | 4      | —                      |
+| math.jetzt        | premium   | —          | —             | 94             | 43     | 4      | —                      |
+| math.blackfriday  | premium   | —          | —             | 94             | 43     | 4      | —                      |
+| mathematics.so    | available | $68.98     | —             | 64             | 92     | 11     | namecheap              |
+| calculus.me       | resell    | $12,648.85 | $27.99        | 58             | 80     | 8      | Dynadot Inc            |
+| algebra.tech      | premium   | $312.50    | $1,250        | 68             | 88     | 7      | name.com               |
+| algebra.zone      | available | $51.98     | —             | 68             | 88     | 7      | namecheap              |
+| geometry.services | resell    | $51.98     | —             | 68             | 22     | 8      | GoDaddy.com, LLC       |
+| algebra.store     | premium   | $156.25    | $625          | 68             | 88     | 7      | name.com               |
+| algebra.ninja     | available | $42.98     | —             | 68             | 88     | 7      | namecheap              |
+| geometry.info     | resell    | $2,528.85  | $35.99        | 68             | 22     | 8      | GoDaddy.com, LLC       |
+| algebra.space     | premium   | $325       | $1,300        | 68             | 88     | 7      | namecheap              |
+| algebra.gg        | available | $82.98     | —             | 68             | 88     | 7      | namecheap              |
+| mathematics.net   | resell    | $19,550    | $23.99        | 64             | 19     | 11     | Network Solutions, LLC |
+| algebra.site      | premium   | $312.50    | $1,250        | 68             | 88     | 7      | name.com               |
+| calculus.zone     | available | $51.98     | —             | 58             | 80     | 8      | namecheap              |
+| mathematics.org   | resell    | —          | —             | 64             | 92     | 11     | 1API GmbH              |
+| algebra.online    | premium   | $312.50    | $1,250        | 68             | 88     | 7      | name.com               |
+| calculus.so       | available | $68.98     | —             | 58             | 80     | 8      | namecheap              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 13,076 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,079 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is broad and extension-heavy, so the main decision is not just the word but the fit between the word and the TLD. Some names are literal and category-clear, such as math.download, while others rely on abstraction, such as theory.kiwi or vector.free. For founders, the best options are the ones that stay memorable when spoken aloud and still look credible in their extension. For investors, price discipline matters because a median ask of 565.75 can still be expensive if the term is narrow, the TLD is weak, or renewal economics are unfavorable. Compare each domain on clarity, extension trust, resale flexibility, and likely trademark friction.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor clear math terms over broad words with weak extension fit
+- Use median ask 565.75 as a baseline, not proof of value
+- Check renewal costs on nonstandard TLDs before committing
+- Avoid names where the extension weakens trust or recall
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Mathematics One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Mathematics Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

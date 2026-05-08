@@ -1,10 +1,10 @@
-# Mathematics Keyword Domains (12,081)
+# Mathematics Keyword Domains (12,087)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C081%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C087%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These domains are mathematics-related names matched to the keyword mathematics, spanning 12,079 listings across 505 TLDs. Median ask is 565.75. Updated daily, this selection ranges from direct terms like math.download to broader concepts like theory.kiwi and vector.free.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,081 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,087 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,081 domains · **Median ask:** $565.75 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,087 domains · **Median ask:** $565.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/sector/Mathematics`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar              |
 | ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| math.download     | premium   | —          | —             | 94             | 43     | 4      | —                      |
-| math.lawyer       | premium   | —          | —             | 94             | 43     | 4      | —                      |
-| math.jetzt        | premium   | —          | —             | 94             | 43     | 4      | —                      |
-| math.blackfriday  | premium   | —          | —             | 94             | 43     | 4      | —                      |
+| math.download     | premium   | —          | —             | 94             | 42     | 4      | —                      |
+| math.lawyer       | premium   | —          | —             | 94             | 42     | 4      | —                      |
+| math.jetzt        | premium   | —          | —             | 94             | 42     | 4      | —                      |
+| math.blackfriday  | premium   | —          | —             | 94             | 42     | 4      | —                      |
 | mathematics.so    | available | $68.98     | —             | 64             | 92     | 11     | namecheap              |
 | calculus.me       | resell    | $12,648.85 | $27.99        | 58             | 80     | 8      | Dynadot Inc            |
 | algebra.tech      | premium   | $312.50    | $1,250        | 68             | 88     | 7      | name.com               |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,081 live domains                        |
+| 1,000-row public sample | 12,087 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Mathematics Keyword Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Mathematics Keyword Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

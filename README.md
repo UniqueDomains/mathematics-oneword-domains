@@ -1,10 +1,10 @@
-# One-Word Mathematics Domain Names (183,203)
+# One-Word Mathematics Domain Names (184,051)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-183%2C203%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-184%2C051%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection contains one-word domain names built around mathematics-related concepts, spanning 506 different TLDs. The median ask across the set is about $470, giving a quick pricing reference. Updated daily, it helps investors and founders compare cost and coverage before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **183,203 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **184,051 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 183,203 domains · **Median ask:** $440.75 · **High-demand under $2,500:** 645
+**Public extract:** 1,000 rows · **Live catalog:** 184,051 domains · **Median ask:** $439.05 · **High-demand under $2,500:** 645
 
 **Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/sector/mathematics`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                           |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| set.archi       | available | $24.99      | —             | high           | low    | 3      | name.com                            |
-| model.college   | resell    | $29.99      | —             | high           | low    | 5      | Namecheap                           |
-| set.build       | premium   | $1,875      | —             | high           | low    | 3      | name.com                            |
-| set.degree      | available | $14.99      | —             | high           | low    | 3      | name.com                            |
-| theory.io       | resell    | $156,687.50 | $73.99        | high           | low    | 6      | Atom.com Domains LLC                |
-| set.business    | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                            |
-| set.enterprises | available | $5.99       | —             | high           | low    | 3      | name.com                            |
-| analysis.io     | resell    | $71,472.50  | $59.99        | high           | low    | 8      | Sav.com, LLC                        |
-| set.cfd         | premium   | $76.76      | $165.12       | high           | low    | 3      | namesilo                            |
-| set.expert      | available | $11.99      | —             | high           | low    | 3      | name.com                            |
-| education.net   | resell    | $230,000    | $19.99        | high           | low    | 9      | Domain.com - Network Solutions, LLC |
-| set.cloud       | premium   | $1,400      | $2,800        | high           | low    | 3      | namecheap                           |
-| set.limited     | available | $14.99      | —             | high           | low    | 3      | name.com                            |
-| set.ac          | resell    | —           | —             | high           | low    | 3      | Devexpanse Ltd d/b/a Regery.com     |
-| set.codes       | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                            |
-| set.ltda        | available | $34.99      | $34.99        | high           | low    | 3      | namesilo                            |
-| set.digital     | resell    | —           | —             | high           | low    | 3      | GoDaddy.com, LLC                    |
-| set.college     | premium   | $625        | —             | high           | low    | 3      | name.com                            |
-| set.mba         | available | $19.99      | —             | high           | low    | 3      | name.com                            |
-| set.info        | resell    | —           | —             | high           | low    | 3      | InterNetX GmbH                      |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                       |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| set.degree      | available | $14.99      | —             | high           | low    | 3      | name.com                        |
+| theory.io       | resell    | $156,687.50 | $73.99        | high           | low    | 6      | Atom.com Domains LLC            |
+| set.cloud       | premium   | $1,400      | $2,800        | high           | low    | 3      | namecheap                       |
+| set.expert      | available | $11.99      | —             | high           | low    | 3      | name.com                        |
+| analysis.io     | resell    | $71,472.50  | $59.99        | high           | low    | 8      | Sav.com, LLC                    |
+| set.codes       | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                        |
+| set.mba         | available | $19.99      | —             | high           | low    | 3      | name.com                        |
+| set.ac          | resell    | —           | —             | high           | low    | 3      | Devexpanse Ltd d/b/a Regery.com |
+| set.college     | premium   | $625        | —             | high           | low    | 3      | name.com                        |
+| set.ryukyu      | available | $22.98      | —             | high           | low    | 3      | namecheap                       |
+| set.it          | resell    | —           | —             | high           | low    | 3      | —                               |
+| set.engineer    | premium   | $71.40      | $71.40        | high           | low    | 3      | namesilo                        |
+| set.shiksha     | available | $19.99      | —             | high           | low    | 3      | name.com                        |
+| data.computer   | resell    | —           | —             | medium         | medium | 4      | Dynadot Inc                     |
+| set.foo         | premium   | $311.25     | —             | high           | low    | 3      | name.com                        |
+| code.shiksha    | available | $19.99      | —             | high           | medium | 4      | name.com                        |
+| data.marketing  | resell    | —           | —             | high           | medium | 4      | Porkbun LLC                     |
+| set.institute   | premium   | $23.60      | $23.60        | high           | low    | 3      | namesilo                        |
+| data.republican | available | $5.98       | $43.98        | medium         | medium | 4      | namecheap                       |
+| data.tech       | resell    | —           | —             | high           | medium | 4      | Namify Domains Inc              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 183,203 live domains                       |
+| 1,000-row public sample | 184,051 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 645 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |

@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                       |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| set.degree      | available | $14.99      | —             | high           | low    | 3      | name.com                        |
-| theory.io       | resell    | $156,687.50 | $73.99        | high           | low    | 6      | Atom.com Domains LLC            |
-| set.cloud       | premium   | $1,400      | $2,800        | high           | low    | 3      | namecheap                       |
-| set.expert      | available | $11.99      | —             | high           | low    | 3      | name.com                        |
-| analysis.io     | resell    | $71,472.50  | $59.99        | high           | low    | 8      | Sav.com, LLC                    |
-| set.codes       | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                        |
-| set.mba         | available | $19.99      | —             | high           | low    | 3      | name.com                        |
-| set.ac          | resell    | —           | —             | high           | low    | 3      | Devexpanse Ltd d/b/a Regery.com |
-| set.college     | premium   | $625        | —             | high           | low    | 3      | name.com                        |
-| set.ryukyu      | available | $22.98      | —             | high           | low    | 3      | namecheap                       |
-| set.it          | resell    | —           | —             | high           | low    | 3      | —                               |
-| set.engineer    | premium   | $71.40      | $71.40        | high           | low    | 3      | namesilo                        |
-| set.shiksha     | available | $19.99      | —             | high           | low    | 3      | name.com                        |
-| data.computer   | resell    | —           | —             | medium         | medium | 4      | Dynadot Inc                     |
-| set.foo         | premium   | $311.25     | —             | high           | low    | 3      | name.com                        |
-| code.shiksha    | available | $19.99      | —             | high           | medium | 4      | name.com                        |
-| data.marketing  | resell    | —           | —             | high           | medium | 4      | Porkbun LLC                     |
-| set.institute   | premium   | $23.60      | $23.60        | high           | low    | 3      | namesilo                        |
-| data.republican | available | $5.98       | $43.98        | medium         | medium | 4      | namecheap                       |
-| data.tech       | resell    | —           | —             | high           | medium | 4      | Namify Domains Inc              |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                           |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
+| set.archi       | available | $24.99      | —             | high           | low    | 3      | name.com                            |
+| model.college   | resell    | $29.99      | —             | high           | low    | 5      | Namecheap                           |
+| set.build       | premium   | $1,875      | —             | high           | low    | 3      | name.com                            |
+| set.degree      | available | $14.99      | —             | high           | low    | 3      | name.com                            |
+| model.school    | resell    | $64.35      | $128.70       | high           | low    | 5      | NameCheap, Inc.                     |
+| set.business    | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                            |
+| set.enterprises | available | $5.99       | —             | high           | low    | 3      | name.com                            |
+| theory.io       | resell    | $156,687.50 | $73.99        | high           | low    | 6      | Atom.com Domains LLC                |
+| set.cfd         | premium   | $76.76      | $165.12       | high           | low    | 3      | namesilo                            |
+| set.expert      | available | $11.99      | —             | high           | low    | 3      | name.com                            |
+| analysis.io     | resell    | $71,472.50  | $59.99        | high           | low    | 8      | Sav.com, LLC                        |
+| set.cloud       | premium   | $1,400      | $2,800        | high           | low    | 3      | namecheap                           |
+| set.limited     | available | $14.99      | —             | high           | low    | 3      | name.com                            |
+| education.net   | resell    | $230,000    | $19.99        | high           | low    | 9      | Domain.com - Network Solutions, LLC |
+| set.codes       | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                            |
+| set.ltda        | available | $34.99      | $34.99        | high           | low    | 3      | namesilo                            |
+| set.ac          | resell    | —           | —             | high           | low    | 3      | Devexpanse Ltd d/b/a Regery.com     |
+| set.college     | premium   | $625        | —             | high           | low    | 3      | name.com                            |
+| set.mba         | available | $19.99      | —             | high           | low    | 3      | name.com                            |
+| set.digital     | resell    | —           | —             | high           | low    | 3      | GoDaddy.com, LLC                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

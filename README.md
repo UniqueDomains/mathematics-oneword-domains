@@ -16,7 +16,7 @@ This selection contains one-word domain names built around mathematics-related c
 
 **Public extract:** 1,000 rows · **Live catalog:** 192,925 domains · **Median ask:** $424.06 · **High-demand under $2,500:** 641
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/mathematics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| set.archi       | available | $24.99      | —             | high           | low    | 3      | name.com                                                  |
-| model.college   | resell    | $29.99      | —             | high           | low    | 5      | Namecheap                                                 |
-| set.business    | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                                                  |
-| set.degree      | available | $14.99      | —             | high           | low    | 3      | name.com                                                  |
-| theory.io       | resell    | $156,687.50 | $73.99        | high           | low    | 6      | Atom.com Domains LLC                                      |
-| set.cfd         | premium   | $76.76      | $165.12       | high           | low    | 3      | namesilo                                                  |
-| set.enterprises | available | $5.99       | —             | high           | low    | 3      | name.com                                                  |
-| analysis.io     | resell    | $71,472.50  | $59.99        | high           | low    | 8      | Sav.com, LLC                                              |
-| set.cloud       | premium   | $1,400      | $2,800        | high           | low    | 3      | namecheap                                                 |
-| set.expert      | available | $11.99      | —             | high           | low    | 3      | name.com                                                  |
-| set.ac          | resell    | —           | —             | high           | low    | 3      | Devexpanse Ltd d/b/a Regery.com                           |
-| set.codes       | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                                                  |
-| set.limited     | available | $14.99      | —             | high           | low    | 3      | name.com                                                  |
-| set.it          | resell    | —           | —             | high           | low    | 3      | —                                                         |
-| set.college     | premium   | $625        | —             | high           | low    | 3      | name.com                                                  |
-| set.ltda        | available | $34.99      | $34.99        | high           | low    | 3      | namesilo                                                  |
-| set.ltd         | resell    | —           | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
-| set.company     | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                                                  |
-| set.mba         | available | $19.99      | —             | high           | low    | 3      | name.com                                                  |
-| set.network     | resell    | —           | —             | high           | low    | 3      | Turkticaret.net Yazılım Hizmetleri Sanayi ve Ticaret A.Ş. |
+| domain         | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                       |
+| -------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| set.degree     | available | $14.99      | —             | high           | low    | 3      | name.com                        |
+| theory.io      | resell    | $156,687.50 | $73.99        | high           | low    | 6      | Atom.com Domains LLC            |
+| set.cloud      | premium   | $1,400      | $2,800        | high           | low    | 3      | namecheap                       |
+| set.expert     | available | $11.99      | —             | high           | low    | 3      | name.com                        |
+| analysis.io    | resell    | $71,472.50  | $59.99        | high           | low    | 8      | Sav.com, LLC                    |
+| set.codes      | premium   | $118.80     | $118.80       | high           | low    | 3      | namesilo                        |
+| set.mba        | available | $19.99      | —             | high           | low    | 3      | name.com                        |
+| set.ac         | resell    | —           | —             | high           | low    | 3      | Devexpanse Ltd d/b/a Regery.com |
+| set.college    | premium   | $625        | —             | high           | low    | 3      | name.com                        |
+| set.shiksha    | available | $19.99      | —             | high           | low    | 3      | name.com                        |
+| set.it         | resell    | —           | —             | high           | low    | 3      | —                               |
+| set.courses    | premium   | $625        | —             | high           | low    | 3      | name.com                        |
+| code.shiksha   | available | $19.99      | —             | high           | medium | 4      | name.com                        |
+| data.city      | resell    | —           | —             | medium         | medium | 4      | Spaceship, Inc.                 |
+| set.engineer   | premium   | $71.40      | $71.40        | high           | low    | 3      | namesilo                        |
+| math.ryukyu    | available | $24.99      | —             | high           | medium | 4      | name.com                        |
+| data.computer  | resell    | —           | —             | medium         | medium | 4      | Dynadot Inc                     |
+| set.foo        | premium   | $311.25     | —             | high           | low    | 3      | name.com                        |
+| math.schule    | available | $19.99      | —             | high           | medium | 4      | name.com                        |
+| data.marketing | resell    | —           | —             | high           | medium | 4      | Porkbun LLC                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Mathematics Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Mathematics Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

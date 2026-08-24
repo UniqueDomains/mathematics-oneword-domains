@@ -80,7 +80,6 @@ b44ae299-5032-4655-a49c-58c7cd7f0caa,function.degree,available,14.99,,high,low,8
 bb15e6c8-deef-4288-97d8-9920dbfab2b1,technology.dev,premium,811.25,811.25,high,low,10,name.com,,
 92d3a58f-90f5-443d-8df8-cc6800115711,technology.shiksha,premium,780,780,high,low,10,namecheap,,
 8edea1be-aa48-4d1b-9eaa-488c470126f7,set.foo,premium,311.25,,high,low,3,name.com,,
-135e78cf-b194-4713-9e58-c26c74684410,mathematics.tech,resell,,,medium,low,11,Squarespace Domains LLC,29/11/2020 03:54,29/11/2026 23:59
 47a6bcc0-f8d0-4caf-85b7-8f9a2d9e5969,structure.degree,available,14.99,,high,low,9,name.com,,
 05907edc-206d-40aa-9e29-bd692675c57b,graph.study,premium,53.92,53.92,high,low,5,namesilo,,
 4007164b-f35d-4f0b-add4-e2db9f197b85,function.study,premium,116,116,high,low,8,namesilo,,
@@ -235,7 +234,6 @@ a35b7ddb-b491-42ba-95a4-0bfc6f9ebdb8,angle.schule,available,19.99,,high,low,5,na
 93176208-1dbd-4e80-a888-775029144891,maths.schule,available,19.99,,high,low,5,name.com,,
 427e1ada-b5b0-4190-a24a-980db7bcb945,code.tech,premium,7812.5,,high,medium,4,name.com,,
 49a2c8f2-1f3d-4157-9f9a-ed3b234db55d,numbers.tech,premium,312.5,,high,low,7,name.com,,
-d6cd3b15-dced-4d35-8e76-c5fe9e649cdd,data.tech,resell,,,high,medium,4,Namify Domains Inc,16/02/2021 19:40,16/02/2029 23:59
 0dfd0487-46c0-494c-91f1-f982a21a2152,abstract.io,resell,,,high,low,8,"GoDaddy.com, LLC",22/10/2010 04:34,22/10/2026 04:34
 54fcf5cb-771e-41c7-840a-806dc222dff8,instruction.ai,resell,,,medium,high,11,Ewire,16/12/2017 01:01,07/12/2025 01:01
 64f4ab11-f5cf-4f1d-8d42-a6361e4559ab,design.consulting,available,,,high,medium,6,,,
@@ -389,6 +387,7 @@ fa64112b-fdce-43b8-a546-c619020feb47,math.college,premium,12500,,high,medium,4,n
 b4006f08-11ce-4a3d-973a-bfe6ee579dbe,statement.institute,available,9.99,,high,low,9,name.com,,
 a66ec59c-4d52-4fc8-95d8-282bbc995439,calculation.shiksha,available,19.99,,medium,low,11,name.com,,
 0e2e7d47-4448-4616-8b2b-8684d98e0bbd,learning.foo,premium,167.7,167.7,high,low,8,namecheap,,
+d6cd3b15-dced-4d35-8e76-c5fe9e649cdd,data.tech,resell,,,medium,medium,4,Namify Domains Inc,16/02/2021 19:40,16/02/2029 23:59
 5c133cb4-9436-43be-90f0-2dd9060f1d2a,scientist.schule,available,19.99,,high,low,9,name.com,,
 1630532d-2cd7-4845-88f7-89b211416942,series.tech,premium,781.25,,high,low,6,name.com,,
 5f5eedf6-c038-4850-b893-27270b6c831c,design.company,resell,,,high,medium,6,"Name.com, Inc.",28/08/2017 18:05,28/08/2032 18:05
@@ -572,7 +571,6 @@ cab4c4e4-db95-4721-a50f-c67b7f4f4e5b,likelihood.dev,available,,,medium,high,10,,
 8d3b1ac6-2b0d-4fcc-ae54-a3faf5a729d7,vector.cfd,premium,165.12,330.24,high,low,6,namesilo,,
 fac4f281-0ed5-4876-968d-acc183f14db9,design.zone,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",04/04/2026 15:15,04/04/2027 15:15
 87abe71a-40be-4d8b-ad23-bf3f09e01705,study.holdings,available,64.99,64.99,high,low,5,namesilo,,
-34b8a249-17b0-406f-b038-a85288c4cb87,data.shiksha,premium,78.54,78.54,medium,medium,4,namesilo,,
 412a7cba-4fa1-4877-ae0f-12c7982cc1de,statistics.shiksha,premium,1250,,medium,low,10,name.com,,
 77112056-0601-406f-8d15-30c376913766,study.fyi,resell,,,high,low,5,"Spaceship, Inc.",21/03/2021 08:22,21/03/2027 08:22
 e23b8ff2-6c0c-4c88-a43b-5ce38c356c78,design.supplies,premium,1000,1000,high,medium,6,name.com,,
@@ -650,6 +648,7 @@ fc932f71-6a12-473b-b39e-c1743b1f3efd,science.zone,premium,1040,1040,high,medium,
 d4d9e6fe-314c-4c24-825d-1f479982dd5e,vector.holdings,available,,,high,low,6,,,
 51f7e3b8-fbd4-461c-a36e-626177a0fc39,science.parts,premium,118.8,118.8,high,medium,7,namesilo,,
 498d1f5e-1cdd-4a99-b387-67b682403d4b,design.global,premium,28750,121.99,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",24/01/2023 15:15,24/01/2027 15:15
+34b8a249-17b0-406f-b038-a85288c4cb87,data.shiksha,premium,78.54,78.54,medium,medium,4,namesilo,,
 e0097990-0eae-4a42-8150-d2a3bc67eea0,figures.shiksha,available,19.99,,medium,low,7,name.com,,
 ea7c8010-0d5c-4e25-9c82-ca574d131113,geometry.foo,premium,167.7,167.7,medium,low,8,namecheap,,
 125eeb04-e01f-450b-a801-77c498214c17,knowledge.io,resell,,,medium,high,9,Dynadot Inc,29/09/2011 19:19,29/09/2026 19:19
@@ -788,7 +787,6 @@ a3badfd1-0683-4b89-bd35-f54e0ac42737,investigation.io,resell,,,medium,high,13,"N
 4a5da53b-6c40-4ef2-97c5-f930f8690e20,education.engineer,premium,1950,1950,high,low,9,namecheap,,
 d2ab8558-3d59-40b6-a716-d696e1ebbf8f,model.phd,premium,811.25,,high,low,5,name.com,,
 a44f6d62-2f1b-41dd-8d75-b4a77c918b8b,design.support,resell,,,high,medium,6,Dynadot Inc,15/07/2015 20:38,15/07/2026 20:38
-6a3a1d04-8851-4a3a-a30c-7c0f13d42065,data.degree,premium,71.4,71.4,medium,medium,4,namesilo,,
 7d907126-55be-4d90-b27a-d11d7ced9913,design.creditcard,premium,500,500,high,medium,6,name.com,,
 66e7edc1-4ad5-40a4-ab45-1373f559ab2e,design.credit,resell,,,high,medium,6,Dynadot Inc,02/12/2025 20:21,02/12/2026 20:21
 cac8f12a-2258-445f-824d-2fb773bada52,axiom.technology,resell,,,high,medium,5,"Spaceship, Inc.",14/04/2026 17:13,14/04/2027 17:13
@@ -849,7 +847,6 @@ bf5e1153-359b-4eec-9227-7d3bea9837f6,school.sarl,available,6.99,6.99,high,low,6,
 84acab17-5a1a-4900-b1a0-c7a0427a4bbd,design.sucks,premium,27300,27300,high,medium,6,namecheap,,
 e88801e8-427b-4b7e-bc7b-d102d601eb41,design.reviews,premium,1000,1000,high,medium,6,name.com,,
 93fd9412-91bc-4494-b46e-d6cdeec934d4,design.exposed,premium,500,500,high,medium,6,name.com,,
-6783dad0-7b0e-43a3-a849-4a7cd9e14330,data.study,premium,1107,1107,medium,medium,4,namesilo,,
 77a56c80-9bd4-4aea-8c75-6cc846831698,design.observer,premium,11250,11250,high,medium,6,name.com,,
 672cd74b-a630-4fe4-84ce-1e348cd016ad,model.cloud,premium,625,625,high,low,5,name.com,,
 b322e1c8-c3e0-425b-8637-10aefd8ec9a3,problem.software,available,19.99,,high,low,7,name.com,,
@@ -944,6 +941,7 @@ f7b83755-8d33-48e5-b452-ed300001eb3b,model.school,resell,64.35,128.7,high,low,5,
 d3114179-149b-49e9-9cde-6a91427e38d0,school.nexus,premium,623.75,,high,low,6,name.com,,
 4b9cf49a-ad1c-4951-860c-c2750eb4c426,abstract.prof,premium,198.75,198.75,high,low,8,name.com,,
 a6162ef2-36eb-4a5e-94e1-5d468db53639,process.foo,premium,311.25,,high,low,7,name.com,,
+6a3a1d04-8851-4a3a-a30c-7c0f13d42065,data.degree,premium,71.4,71.4,medium,medium,4,namesilo,,
 5b8a81aa-50cd-43fa-a89c-b3db0cb1b3db,science.credit,available,11.99,,high,medium,7,name.com,,
 b0f59aa5-0788-44f0-aae8-737719debd0c,science.creditcard,available,9.99,,high,medium,7,name.com,,
 abe1a7c6-a6f1-42ae-a67b-7df0fc99de94,balance.foo,premium,311.25,,high,low,7,name.com,,
@@ -999,3 +997,5 @@ f19d1e56-e487-424b-ad92-a672dea93dd1,information.college,premium,625,,high,low,1
 6feca9ae-6101-47b0-9ced-ed2faea11075,vector.supply,available,,,high,low,6,,,
 e1783ec1-3bce-4855-a4cd-75ea0046ec5e,study.sbs,premium,141.44,282.88,high,low,5,namesilo,,
 e1d4a76b-e9c7-4f14-b3c6-bbd88fe44085,science.sucks,premium,13800,2658.67,high,medium,7,namesilo,,
+ca9f6e04-52b5-43f9-b894-de57219d0b8f,science.gripe,available,6.99,6.99,high,medium,7,namesilo,,
+fd5e41bc-04df-4be8-8b32-c129e7fb5413,study.cyou,premium,71.83,287.3,high,low,5,namecheap,,

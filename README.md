@@ -16,7 +16,7 @@ This selection contains one-word domain names built around mathematics-related c
 
 **Public extract:** 1,000 rows · **Live catalog:** 209,284 domains · **Median ask:** $415.80 · **High-demand under $2,500:** 796
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/sector/mathematics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| rule.institute     | available | $5.98     | $37.98        | low            | low    | 4      | namecheap                                                 |
-| code.international | resell    | —         | —             | high           | medium | 4      | Unstoppable Domains Inc                                   |
-| jobs.schule        | premium   | $1,000    | —             | high           | medium | 4      | name.com                                                  |
-| rule.schule        | available | $29.98    | $32.98        | low            | low    | 4      | namecheap                                                 |
-| data.tools         | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
-| graph.shop         | premium   | $1,250    | —             | high           | low    | 5      | name.com                                                  |
-| angle.ryukyu       | available | $22.98    | —             | high           | low    | 5      | namecheap                                                 |
-| axiom.shop         | resell    | —         | —             | high           | medium | 5      | XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.             |
-| charts.company     | premium   | $15.34    | $15.34        | medium         | low    | 6      | namesilo                                                  |
-| model.ryukyu       | available | $22.98    | —             | high           | low    | 5      | namecheap                                                 |
-| model.codes        | resell    | —         | —             | medium         | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| charts.dad         | premium   | $161.25   | —             | medium         | low    | 6      | name.com                                                  |
-| paths.shiksha      | available | $19.99    | —             | medium         | low    | 5      | name.com                                                  |
-| paths.io           | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.                                           |
-| charts.foo         | premium   | $623.75   | —             | medium         | low    | 6      | name.com                                                  |
-| proof.ryukyu       | available | $22.98    | —             | high           | low    | 5      | namecheap                                                 |
-| space.media        | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                               |
-| charts.love        | premium   | $1,312.50 | —             | medium         | low    | 6      | name.com                                                  |
-| arrays.shiksha     | available | $19.99    | —             | medium         | low    | 6      | name.com                                                  |
-| branch.ai          | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC                                          |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------- |
+| set.degree      | available | $14.99    | —             | high           | low    | 3      | name.com                    |
+| data.computer   | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                 |
+| set.foo         | premium   | $311.25   | —             | high           | low    | 3      | name.com                    |
+| set.expert      | available | $11.99    | —             | high           | low    | 3      | name.com                    |
+| data.forsale    | resell    | —         | —             | medium         | medium | 4      | Porkbun LLC                 |
+| set.institute   | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo                    |
+| set.ryukyu      | available | $22.98    | —             | high           | low    | 3      | namecheap                   |
+| data.golf       | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 34           |
+| set.schule      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                    |
+| set.shiksha     | available | $19.99    | —             | high           | low    | 3      | name.com                    |
+| data.marketing  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                 |
+| set.science     | premium   | $625      | —             | high           | low    | 3      | name.com                    |
+| data.new        | available | $488.98   | $601.98       | medium         | medium | 4      | namecheap                   |
+| math.education  | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.             |
+| set.study       | premium   | $625      | —             | high           | low    | 3      | name.com                    |
+| data.republican | available | $5.98     | $43.98        | medium         | medium | 4      | namecheap                   |
+| model.dev       | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC            |
+| set.tech        | premium   | $781.25   | —             | high           | low    | 3      | name.com                    |
+| math.schule     | available | $19.99    | —             | high           | medium | 4      | name.com                    |
+| study.dev       | resell    | —         | —             | high           | low    | 5      | Squarespace Domains II LLC. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Mathematics Domain Names*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Mathematics Domain Names*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

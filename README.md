@@ -1,10 +1,10 @@
-# One-Word Mathematics Domain Names (101,690)
+# One-Word Mathematics Domain Names (103,997)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-101%2C690%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-103%2C997%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection contains one-word domain names built around mathematics-related concepts, spanning 506 different TLDs. The median ask across the set is about $470, giving a quick pricing reference. Updated daily, it helps investors and founders compare cost and coverage before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **101,690 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **103,997 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 101,690 domains · **Median ask:** $383.32 · **High-demand under $2,500:** 351
+**Public extract:** 1,000 rows · **Live catalog:** 103,997 domains · **Median ask:** $377.94 · **High-demand under $2,500:** 350
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/mathematics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| number.us         | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.        |
-| math.rentals      | available | $14.99    | —             | high           | medium | 4      | name.com               |
-| math.accountants  | available | $43.99    | —             | high           | medium | 4      | name.com               |
-| geometry.info     | resell    | $2,528.85 | $35.99        | medium         | low    | 8      | GoDaddy.com, LLC       |
-| jobs.style        | premium   | $123.75   | —             | high           | medium | 4      | name.com               |
-| math.actor        | available | $19.99    | —             | high           | medium | 4      | name.com               |
-| geometry.services | resell    | $51.98    | —             | medium         | low    | 8      | GoDaddy.com, LLC       |
-| math.accountant   | premium   | $437.50   | —             | high           | medium | 4      | name.com               |
-| math.adult        | available | $166.98   | —             | high           | medium | 4      | namecheap              |
-| mathematics.net   | resell    | $19,550   | $23.99        | medium         | low    | 11     | Network Solutions, LLC |
-| math.autos        | premium   | $2,500    | —             | high           | medium | 4      | name.com               |
-| math.airforce     | available | $134.98   | —             | high           | medium | 4      | namecheap              |
-| data.city         | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.        |
-| math.bar          | premium   | $393.75   | —             | high           | medium | 4      | name.com               |
-| math.apartments   | available | $19.99    | —             | high           | medium | 4      | name.com               |
-| data.marketing    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC            |
-| math.beauty       | premium   | $812.50   | —             | high           | medium | 4      | name.com               |
-| math.archi        | available | $24.99    | —             | high           | medium | 4      | name.com               |
-| data.shop         | resell    | —         | —             | medium         | medium | 4      | GMO Registry           |
-| math.best         | premium   | $1,118.88 | $1,118.88     | high           | medium | 4      | namecheap              |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| set.ryukyu      | available | $22.98    | —             | high           | low    | 3      | namecheap              |
+| recipe.gg       | resell    | $82.98    | —             | high           | low    | 6      | namecheap              |
+| data.press      | premium   | $975      | $1,950        | medium         | medium | 4      | namecheap              |
+| data.new        | available | $488.98   | $601.98       | medium         | medium | 4      | namecheap              |
+| mathematics.net | resell    | $19,550   | $23.99        | medium         | low    | 11     | Network Solutions, LLC |
+| math.degree     | premium   | $1,250    | —             | high           | medium | 4      | name.com               |
+| data.republican | available | $5.98     | $43.98        | medium         | medium | 4      | namecheap              |
+| key.company     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC            |
+| math.institute  | premium   | $250      | —             | high           | medium | 4      | name.com               |
+| math.ryukyu     | available | $24.99    | —             | high           | medium | 4      | name.com               |
+| data.forsale    | resell    | —         | —             | medium         | medium | 4      | Porkbun LLC            |
+| math.study      | premium   | $6,250    | —             | high           | medium | 4      | name.com               |
+| math.schule     | available | $19.99    | —             | high           | medium | 4      | name.com               |
+| data.golf       | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 34      |
+| math.tech       | premium   | $1,562.50 | $6,250        | high           | medium | 4      | name.com               |
+| math.shiksha    | available | $19.99    | —             | high           | medium | 4      | name.com               |
+| data.marketing  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC            |
+| icons.deals     | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo               |
+| apply.codes     | available | $3.98     | $92.98        | medium         | low    | 5      | namecheap              |
+| math.education  | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 101,690 live domains                       |
+| 1,000-row public sample | 103,997 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 351 high-demand names under $2,500         |
+| Basic exported fields   | 350 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Mathematics Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Mathematics Domain Names*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -749,6 +749,7 @@ eabdc8e2-5b9b-483c-b1d3-658f3e9ab2c6,algebra.accountants,available,117.99,117.99
 2ee31bd6-8a42-49fc-83b5-d049ca6ef52a,math.rsvp,premium,499.2,,high,medium,4,unstoppable,,,30/09/2026 04:02
 a22c0f4e-f3bd-4013-b870-979abfea64ac,calculus.ooo,available,21.1,21.1,high,low,8,porkbun,,,30/09/2026 00:56
 812915fc-6db3-4be0-9a8b-d3d364b054f1,calculus.kim,available,5.38,18.83,high,low,8,spaceship,,,30/09/2026 00:56
+6783dad0-7b0e-43a3-a849-4a7cd9e14330,data.study,premium,1107,1107,high,medium,4,namesilo,,,04/10/2026 16:15
 9e6c11f6-000a-4432-84a2-90b55f5fb041,calculus.cars,available,1999.99,2199,high,low,8,namesilo,,,30/09/2026 00:56
 5fd50ab2-543d-41da-90b9-c3c2ffbd5809,geometry.study,premium,1035.2,1035.2,high,low,8,spaceship,,,29/09/2026 20:49
 432be726-00ff-4be4-86a2-c57e637f7a9a,math.wiki,premium,812.5,,high,medium,4,name.com,,,30/09/2026 04:02
@@ -769,7 +770,6 @@ e820d767-0586-438a-b717-471e91387f8c,calculus.asia,available,2.79,13.49,high,low
 b3c4362e-6584-4374-940e-bf51c09c63d2,calculus.rich,available,79,160.72,high,low,8,dynadot,,,30/09/2026 00:56
 1a416ae3-5a76-40eb-aea7-7135f271340d,geometry.estate,available,30.2,30.2,high,low,8,cloudflare,,,29/09/2026 20:49
 812f31cf-7191-408f-9008-14c6e275412b,algebra.systems,available,18.99,34.99,high,low,7,namesilo,,,18/09/2026 06:54
-6783dad0-7b0e-43a3-a849-4a7cd9e14330,data.study,premium,1107,1107,high,medium,4,namesilo,,,03/10/2026 07:17
 5bc951d7-f05c-4fb7-8878-b5e5fb6bb12b,geometry.blue,available,19.2,19.2,high,low,8,cloudflare,,,29/09/2026 20:49
 e6721431-b742-4aeb-9f40-ee75efc66882,geometry.ac,available,25.88,46.58,high,low,8,spaceship,,,29/09/2026 20:49
 a82e35d9-30ff-474a-bd68-a22aa453638a,geometry.skin,available,1.24,13.97,high,low,8,spaceship,,,29/09/2026 20:49
@@ -841,9 +841,12 @@ dcc229e1-67db-4f13-bae3-87abf7c9137c,math.holiday,available,5.57,53.72,high,medi
 45b25044-9c18-41ea-92ab-8d77d2d79be8,analysis.pw,premium,275,550,high,low,8,dynadot,,,04/10/2026 05:23
 f83559b6-ff1f-41c0-bbfe-f4e264026403,math.photo,premium,109.69,109.69,high,medium,4,porkbun,,,30/09/2026 04:02
 c0583520-f1b3-4c8e-988f-546dcab8ec44,geometry.builders,available,28.15,28.15,high,low,8,spaceship,,,29/09/2026 20:49
+e9b95a5d-02ac-49bd-b192-ca74b4e5eccb,data.shoes,available,50.2,50.2,high,medium,4,cloudflare,,,04/10/2026 16:15
+0708fc4a-573e-41ce-ae69-5598722d9383,data.watch,resell,,,high,medium,4,"GoDaddy.com, LLC",12/07/2018 14:56,12/07/2027 14:56,04/10/2026 16:15
 6612477c-d98d-499f-9cb2-a0427155dd53,arithmetic.gg,available,51.6,51.6,high,low,10,spaceship,,,02/10/2026 15:56
 a5c33060-ff10-4ef8-b74b-731e3564aaf9,analysis.ing,premium,382.61,382.61,high,low,8,porkbun,,,04/10/2026 05:23
 a10793dd-72fe-4520-8c74-1c7f65f7cdc8,analysis.doctor,available,5.38,93.35,high,low,8,spaceship,,,04/10/2026 05:23
+8f53c9dc-6064-4b43-9253-8188e4348c63,data.mov,premium,516.67,516.67,high,medium,4,spaceship,,,04/10/2026 16:15
 325a92d0-0150-4a53-b3f3-a900b2887b82,analysis.security,available,1863.2,2000.18,high,low,8,spaceship,,,04/10/2026 05:23
 bad9a5ca-c195-42a6-8c3b-d1b0292a9fa1,analysis.zip,premium,133.72,133.72,high,low,8,spaceship,,,04/10/2026 05:23
 2ec1942e-dbe8-444f-8b55-629caf2af62a,geometry.life,resell,,,high,low,8,"Sav.com, LLC - 14",21/02/2026 15:15,21/02/2027 15:15,29/09/2026 20:49
@@ -855,28 +858,28 @@ c0046bf9-9d78-4112-8ab4-521b8f8a1f1f,arithmetic.shiksha,available,14.99,51.99,hi
 eeb8cc9a-c32f-41ea-9ab2-92aead7b04e4,calculus.porn,available,51.95,98.53,high,low,8,spaceship,,,30/09/2026 00:56
 e1017d22-1fe5-47df-8dd7-1d28bd7cf7c8,arithmetic.ltd,available,24.2,24.2,high,low,10,cloudflare,,,02/10/2026 15:56
 2cc5b387-14ee-4a91-b222-839a3fa12031,calculus.tech,premium,325,1300,high,low,8,namecheap,,,30/09/2026 00:56
+3498c086-f149-46a9-b767-ca22de398769,data.theatre,available,500.2,500.2,high,medium,4,cloudflare,,,04/10/2026 16:15
 e842bfaa-cf77-4020-b173-9755aee7a4a9,calculus.baby,available,1.18,51.8,high,low,8,spaceship,,,30/09/2026 00:56
 e8217a42-463f-4187-9722-38e2de95ea0c,analysis.markets,premium,3250,3250,high,low,8,namecheap,,,04/10/2026 05:23
-e9b95a5d-02ac-49bd-b192-ca74b4e5eccb,data.shoes,available,64.99,64.99,high,medium,4,namesilo,,,03/10/2026 07:17
-0708fc4a-573e-41ce-ae69-5598722d9383,data.watch,resell,,,high,medium,4,"GoDaddy.com, LLC",12/07/2018 14:56,12/07/2027 14:56,03/10/2026 07:17
 2a593001-3fc3-4be4-993a-20d052b635e4,arithmetic.construction,available,38.99,38.99,high,low,10,namesilo,,,02/10/2026 15:56
 93f9bced-dc00-46d9-92b7-9753ae7f47c5,calculus.vacations,available,31.25,31.25,high,low,8,spaceship,,,30/09/2026 00:56
+18707375-2e7d-4d3f-bea6-8767be77332a,data.esq,resell,,,high,medium,4,"GoDaddy.com, LLC",12/05/2023 03:13,12/05/2028 03:13,04/10/2026 16:15
 461e02d5-a078-41cb-971e-62ca1f50f633,arithmetic.org,resell,10235,17.99,high,low,10,Dynadot Inc,28/06/2001 10:52,28/06/2027 10:52,02/10/2026 15:56
 b144e4e6-098d-46db-ae2f-ace2881ef2a7,math.movie,available,47.99,349.99,high,medium,4,namesilo,,,30/09/2026 04:02
 d4ac7b3c-6326-41b7-bca0-f02268b7adb6,number.prof,premium,843.7,843.7,high,low,6,namecheap,,,25/09/2026 23:29
 02248be7-b27a-4eb3-9b91-f112e4181f23,calculus.surf,available,2.19,32.49,high,low,8,namesilo,,,30/09/2026 00:56
 e716b673-68e9-49ca-87af-ce8a9d5576b2,arithmetic.qpon,available,2.19,11.49,high,low,10,namesilo,,,02/10/2026 15:56
 9e7f9b16-30a8-48f0-bfb2-d7055433d116,logic.schule,available,28.99,28.99,high,medium,5,namesilo,,,01/10/2026 02:39
-8f53c9dc-6064-4b43-9253-8188e4348c63,data.mov,premium,516.67,516.67,high,medium,4,spaceship,,,03/10/2026 07:17
 e489ae07-82ab-4a3c-b7e5-0392b79d8aaf,algebra.hockey,available,59.99,59.99,high,low,7,namesilo,,,18/09/2026 06:54
 b129dfd4-0b43-4da8-8d6a-edfc22e72eef,arithmetic.ac,available,34.99,47.99,high,low,10,namesilo,,,02/10/2026 15:56
 16ed9c31-be38-4cbe-bd84-17fb76493745,arithmetic.icu,available,2.79,26.98,high,low,10,namecheap,,,02/10/2026 15:56
 fd17532c-c1b7-4f22-b219-e8ab43dbe9b4,geometry.diet,available,93.35,103.4,high,low,8,spaceship,,,29/09/2026 20:49
 36607978-308c-46f2-8746-36c718155684,algebra.futbol,available,7.49,17.99,high,low,7,namesilo,,,18/09/2026 06:54
 895256cb-2b24-4e02-b6b2-c566346676d6,trigonometry.space,premium,32.5,130,high,high,12,namecheap,,,
+590bed86-6bc7-4eb6-8282-e8c68b3ba84c,data.camp,resell,,,high,medium,4,Dynadot Inc,19/06/2021 13:06,19/06/2027 13:06,04/10/2026 16:15
 e22e43fa-edd6-4fdf-a1a9-2fdaa27eb424,arithmetic.stream,premium,448,53.92,high,low,10,namesilo,,,02/10/2026 15:56
-3498c086-f149-46a9-b767-ca22de398769,data.theatre,available,535.22,535.22,high,medium,4,dynadot,,,03/10/2026 07:17
 36009c1c-2980-459e-9065-26bc62e7cb4e,arithmetic.recipes,available,8.99,77.99,high,low,10,namesilo,,,02/10/2026 15:56
+8611597d-6126-4f86-9869-d8adb6675517,data.surgery,premium,220,220,high,medium,4,dynadot,,,04/10/2026 16:15
 e41aa030-5da8-456e-9eaf-e1620f182915,algebra.business,available,19.49,19.49,high,low,7,namesilo,,,18/09/2026 06:54
 5653d490-5865-43ba-b354-22ae51edeb9e,geometry.uk,resell,,,high,low,8,Scorpion Research Ltd,10/06/2014 15:48,10/06/2035 15:48,29/09/2026 20:49
 e1f1e1fb-b771-4ed2-99ae-b84d77532962,algebra.party,available,5.98,9.98,high,low,7,namecheap,,,18/09/2026 06:54
@@ -886,16 +889,16 @@ b099aa34-a2ce-4570-8bf1-8e8bfb623cf6,geometry.press,premium,129.58,258.95,high,l
 70b7ddf8-bd8e-4100-804b-017167e267fe,geometry.careers,available,26.08,57.13,high,low,8,spaceship,,,29/09/2026 20:49
 115739e8-b57f-4429-8f63-49b0f6e021f0,statistics.cfd,premium,59.71,119.23,high,low,10,spaceship,,,30/09/2026 11:51
 2d43cec1-0aea-4cf2-adf6-fcceeb39dbad,calculus.bid,available,5.25,6.25,high,low,8,namesilo,,,30/09/2026 00:56
-18707375-2e7d-4d3f-bea6-8767be77332a,data.esq,resell,,,high,medium,4,"GoDaddy.com, LLC",12/05/2023 03:13,12/05/2028 03:13,03/10/2026 07:17
 f3d67af3-df90-489c-a551-5456078f171e,calculus.miami,available,23.49,23.49,high,low,8,namesilo,,,30/09/2026 00:56
 c7cc33c4-2323-47d6-b393-d8ef5c362e9c,analysis.insure,available,5.66,58.19,high,low,8,porkbun,,,04/10/2026 05:23
 72bfbf47-3885-4cdf-aaaf-36a57a508980,algebra.protection,available,1999.99,2049.99,high,low,7,namesilo,,,18/09/2026 06:54
 860733d6-d371-4fbb-8f89-18e90ee7860c,statistics.tech,premium,1000.2,1250,high,low,10,unstoppable,,,30/09/2026 11:51
 b9f7f4fd-9e84-4b54-87bc-0b781e1fc915,geometry.fun,premium,1365.1,5458.82,high,low,8,porkbun,,,29/09/2026 20:49
 16c8a2ea-4101-4ac0-b2b8-ba846d329174,arithmetic.date,premium,390,65,high,low,10,namecheap,,,02/10/2026 15:56
+27bed2f2-1e87-4c23-80ae-1b127b226b95,data.zip,premium,516.67,516.67,high,medium,4,spaceship,,,04/10/2026 16:15
+80af24f1-860d-4247-baa4-b02758c07707,data.college,premium,13800,13800,high,medium,4,namesilo,,,04/10/2026 16:15
 8202d593-5494-4d1d-8387-dde8e5d71c7e,algebra.paris,available,66.98,66.98,high,low,7,namecheap,,,18/09/2026 06:54
 3659effa-9993-4a4e-9bc7-0070f264f1f3,statistics.party,premium,517.7,67.48,high,low,10,spaceship,,,30/09/2026 11:51
-590bed86-6bc7-4eb6-8282-e8c68b3ba84c,data.camp,resell,,,high,medium,4,Dynadot Inc,19/06/2021 13:06,19/06/2027 13:06,03/10/2026 07:17
 92f9b204-93e8-4270-a026-3381faacb079,geometry.forsale,available,16,,high,low,8,unstoppable,,,29/09/2026 20:49
 5c28aaac-15bf-4f4a-900b-b3cf36af9fb3,calculus.cfd,premium,59.71,119.23,high,low,8,spaceship,,,30/09/2026 00:56
 a396fa7b-d0a8-412e-b6fa-466336c2af6d,calculus.solar,available,67.98,81.98,high,low,8,namecheap,,,30/09/2026 00:56
@@ -905,37 +908,35 @@ a396fa7b-d0a8-412e-b6fa-466336c2af6d,calculus.solar,available,67.98,81.98,high,l
 8f95fad8-eeb5-4f66-bb8a-6d7c09888720,statistics.faith,premium,640,77.35,high,low,10,namesilo,,,30/09/2026 11:51
 6f7e2308-0295-4ede-803f-5d2237891ff9,statistics.glass,available,58.16,58.16,high,low,10,spaceship,,,30/09/2026 11:51
 eb620c75-40ba-411a-848a-9d64527a333d,arithmetic.adult,available,53.72,101.87,high,low,10,dynadot,,,02/10/2026 15:56
-8611597d-6126-4f86-9869-d8adb6675517,data.surgery,premium,242,242,high,medium,4,namesilo,,,03/10/2026 07:17
 508c3802-1926-4d26-a1eb-1211f8d1ac17,calculus.store,premium,500.2,625,high,low,8,unstoppable,,,30/09/2026 00:56
 24e439be-31d4-4ae1-97fb-2bf2ca9fd522,math.jetzt,available,24.48,30.48,high,medium,4,namecheap,,,30/09/2026 04:02
 45513f16-9897-49de-a212-ad2348590572,geometry.viajes,available,35.18,35.18,high,low,8,spaceship,,,29/09/2026 20:49
+b2dc3bcb-2136-4ac8-ad19-1152d7a3476e,data.vacations,available,38.99,38.99,high,medium,4,namesilo,,,04/10/2026 16:15
 542acf49-e267-4f61-a9e6-5ddd6ee36bc4,calculus.tools,available,9.78,29.35,high,low,8,porkbun,,,30/09/2026 00:56
 7d093e75-1fb9-486c-be99-a75c0a6aaeb3,algebra.careers,available,34.99,71.99,high,low,7,namesilo,,,18/09/2026 06:54
 7e4d6346-869c-434f-8936-1d5b7a04654b,analysis.college,available,1.18,51.95,high,low,8,spaceship,,,04/10/2026 05:23
 c57c7fdd-5a59-4ba4-8428-81cbd30b2bc9,algebra.education,available,34.99,34.99,high,low,7,namesilo,,,18/09/2026 06:54
-37749257-a16f-415d-9678-7f4971acac61,data.black,resell,,,high,medium,4,"GoDaddy.com, LLC",29/09/2014 00:08,29/09/2027 00:08,03/10/2026 07:17
+787c41a2-8edb-4db7-b665-1b20217ebeb6,data.singles,resell,,,high,medium,4,"GoDaddy.com, LLC",28/03/2026 18:38,28/03/2027 18:38,04/10/2026 16:15
 20bbf014-c423-4496-91d2-5d41699eb16d,analysis.clinic,premium,78.54,78.54,high,low,8,namesilo,,,04/10/2026 05:23
 78052dcf-2b4f-4cdb-979a-7c9f0d933f1f,math.moda,available,41.99,41.99,high,medium,4,namesilo,,,30/09/2026 04:02
 7fa5ff80-9d5a-42e7-9b8c-484a0ceb1757,analysis.dance,available,16,21.94,high,low,8,unstoppable,,,04/10/2026 05:23
 592e72c6-0a20-48a4-9af4-a489939ab3b5,logic.space,premium,647.08,2587.7,high,medium,5,spaceship,,,01/10/2026 02:39
 ae4d6ee3-350c-4bab-93dc-af8dcab3a7fd,geometry.mom,available,1.24,26,high,low,8,spaceship,,,29/09/2026 20:49
 9b63bd4a-b39d-4bb0-8ff9-a3528da7e168,analysis.theatre,available,500.2,500.2,high,low,8,cloudflare,,,04/10/2026 05:23
-27bed2f2-1e87-4c23-80ae-1b127b226b95,data.zip,premium,648.7,648.7,high,medium,4,namecheap,,,03/10/2026 07:17
 fd3398e3-13ed-4057-a09b-44b14c285389,math.mom,premium,2070.2,2070.2,high,medium,4,spaceship,,,30/09/2026 04:02
 a2826390-1c27-4192-8e09-83f43b8f5a0d,algebra.equipment,available,28.99,28.99,high,low,7,namesilo,,,18/09/2026 06:54
 870de1d0-9390-46de-96b3-ea7f37dd52fa,statistics.claims,available,10.55,51.95,high,low,10,spaceship,,,30/09/2026 11:51
-80af24f1-860d-4247-baa4-b02758c07707,data.college,premium,10350.2,10350.2,high,medium,4,spaceship,,,03/10/2026 07:17
 fc2aeab6-be15-43a6-a292-f1f6fbf40fa2,analysis.day,premium,272.35,272.35,high,low,8,porkbun,,,04/10/2026 05:23
 e685730a-83c5-4135-b498-c6393f977ead,analysis.world,resell,,,high,low,8,Squarespace Domains II LLC,21/07/2021 23:47,21/07/2027 23:47,04/10/2026 05:23
 1c2b06de-69d7-46d0-9eda-4e7bbbb71359,arithmetic.republican,available,5.98,43.98,high,low,10,namecheap,,,02/10/2026 15:56
 1dd292c1-be2a-4dd5-916a-9ebd9c07d274,analysis.forum,available,1.24,31.16,high,low,8,spaceship,,,04/10/2026 05:23
 3ed4d7dc-66f1-48e7-aa10-e39c03d81798,analysis.courses,premium,220,220,high,low,8,dynadot,,,04/10/2026 05:23
+78728bc2-2e70-4b72-b1a5-43e853647ca4,data.dog,resell,,,high,medium,4,NETIM SAS,16/08/2015 16:00,16/08/2027 16:00,04/10/2026 16:15
 711d1b8c-d34d-44a2-9441-207ef5ed11e0,arithmetic.red,available,11,28.48,high,low,10,unstoppable,,,02/10/2026 15:56
 1ea632c0-3a19-461e-9342-80618d0765c7,calculus.ngo,available,15.96,15.96,high,low,8,porkbun,,,30/09/2026 00:56
 5cc4ea34-bb97-47ae-af17-864611ed36a6,arithmetic.coffee,available,6.41,34.36,high,low,10,spaceship,,,02/10/2026 15:56
 4efffe9d-ed83-4362-8160-98cd7b1ffcea,arithmetic.rip,available,24.98,32.98,high,low,10,namecheap,,,02/10/2026 15:56
 3733f2e6-1aca-4818-9cf6-2e62af7e2706,statistics.graphics,available,23.99,23.99,high,low,10,namesilo,,,30/09/2026 11:51
-b2dc3bcb-2136-4ac8-ad19-1152d7a3476e,data.vacations,available,5.57,32.21,high,medium,4,dynadot,,,03/10/2026 07:17
 10db24dc-0e8c-463b-bc58-a14df4a1a053,calculus.vet,available,32.2,32.2,high,low,8,cloudflare,,,30/09/2026 00:56
 1d60ecb5-4cd0-4ed6-8299-78bd14c3c31d,arithmetic.luxury,available,26,26,high,low,10,spaceship,,,02/10/2026 15:56
 e518ddcc-e288-470a-bcae-90dfe016bdb2,analysis.theater,available,10.92,53.72,high,low,8,dynadot,,,04/10/2026 05:23
@@ -945,13 +946,14 @@ e518ddcc-e288-470a-bcae-90dfe016bdb2,analysis.theater,available,10.92,53.72,high
 4468ac4b-52ea-4b0a-923d-bc92f57bdca5,algebra.voto,available,11.98,86.98,high,low,7,namecheap,,,18/09/2026 06:54
 dab14670-01c1-4e97-91f6-e9a52851938f,calculus.xxx,available,95.2,95.2,high,low,8,cloudflare,,,30/09/2026 00:56
 837a145a-21d5-49d8-9453-a1496dde33ce,analysis.lease,premium,72.6,72.6,high,low,8,dynadot,,,04/10/2026 05:23
-787c41a2-8edb-4db7-b665-1b20217ebeb6,data.singles,resell,,,high,medium,4,"GoDaddy.com, LLC",28/03/2026 18:38,28/03/2027 18:38,03/10/2026 07:17
 9ea1b11a-6131-43f5-9f38-0b3e70f5a2a9,geometry.gay,available,1.75,31.28,high,low,8,spaceship,,,29/09/2026 20:49
 1f9bed3f-92e1-4cc2-a771-51aff5fb8a9b,calculus.builders,available,27.2,27.2,high,low,8,cloudflare,,,30/09/2026 00:56
 d4b77b12-6137-4420-a0fa-86a42a05ba6b,analysis.money,available,11.98,38.98,high,low,8,namecheap,,,04/10/2026 05:23
+49bb6276-85cd-4e30-9d95-40366a3b4dd6,data.courses,premium,1035.2,1035.2,high,medium,4,spaceship,,,04/10/2026 16:15
 d4b1aaed-61ec-41c7-a062-12d56709c25d,statistics.international,resell,,,high,low,10,"NameSilo, LLC",31/08/2024 10:19,31/08/2027 10:19,30/09/2026 11:51
+8292043e-8114-425d-b950-f8b30da07d88,data.football,resell,,,high,medium,4,"Go France Domains, LLC",03/06/2015 16:00,03/06/2027 16:00,04/10/2026 16:15
+c48d6f5c-4785-4aa0-a68f-41feb75fd79f,data.company,premium,,,high,medium,4,,,,04/10/2026 16:15
 56315d32-c947-4873-a12c-91942f16f84f,algebra.gmbh,available,45.99,45.99,high,low,7,namesilo,,,18/09/2026 06:54
-78728bc2-2e70-4b72-b1a5-43e853647ca4,data.dog,resell,,,high,medium,4,NETIM SAS,16/08/2015 16:00,16/08/2027 16:00,03/10/2026 07:17
 b7a33702-708c-45f8-a3de-f494490658c1,analysis.vin,available,6.69,47.89,high,low,8,porkbun,,,04/10/2026 05:23
 5cb3d8ff-1460-44f3-99fd-7d49f3cdee55,statistics.archi,available,13.39,82.9,high,low,10,porkbun,,,30/09/2026 11:51
 ce7fea95-59d1-4121-bc61-05c514b41878,arithmetic.music,available,38.5,38.5,high,low,10,spaceship,,,02/10/2026 15:56
@@ -961,6 +963,7 @@ aca482fc-10e4-40ac-8d7e-a96cfe33439b,algebra.college,available,1.5,81.98,high,lo
 8f8c42b1-21c4-4cbd-898c-e50a09ade995,geometry.hot,premium,100.5,130,high,low,8,unstoppable,,,29/09/2026 20:49
 3f5f8a43-4a15-41f5-9e9e-6c8d4c05da57,arithmetic.desi,available,19.98,22.98,high,low,10,namecheap,,,02/10/2026 15:56
 291dde56-c992-40a5-8f6a-f55ab55101a6,geometry.day,premium,59.2,76.7,high,low,8,unstoppable,,,29/09/2026 20:49
+484bb4ca-c400-4aee-905c-8a049d1b7b0c,data.dentist,premium,207.2,207.2,high,medium,4,spaceship,,,04/10/2026 16:15
 c73aca43-762c-410e-bd4c-b4d0b2c12eee,science.shiksha,premium,4140.2,4140.2,high,medium,7,spaceship,,,04/10/2026 03:36
 4be6ccdd-3071-4564-b7c9-02ae1d055c5d,arithmetic.sydney,available,58,58,high,low,10,namesilo,,,02/10/2026 15:56
 38826247-94b4-45ce-85ad-ae3079d24c25,math.realty,available,99.8,456.98,high,medium,4,namecheap,,,30/09/2026 04:02
@@ -976,26 +979,23 @@ e3abb4e0-6e35-4698-bf45-b2887e54ddbd,algebra.viajes,available,43.98,57.98,high,l
 c4a19d28-a631-4678-af92-1836b6d0464e,analysis.ventures,available,46.2,46.2,high,low,8,cloudflare,,,04/10/2026 05:23
 6f16156e-37be-4edc-9b7e-e806f0b8b940,math.poker,resell,,,high,medium,4,Porkbun LLC,26/11/2024 15:46,26/11/2026 15:46,30/09/2026 04:02
 8d627e8a-8718-4f52-a5c1-eccf49fb5629,math.science,resell,,,high,medium,4,"NameSilo, LLC",21/10/2019 07:36,21/10/2030 07:36,30/09/2026 04:02
+da03fcb8-b9ae-4e35-aa0b-3d7c5d88d25b,data.group,resell,,,high,medium,4,"GoDaddy.com, LLC",03/06/2016 22:50,03/06/2027 22:50,04/10/2026 16:15
 c7fbfd24-67fc-444a-92eb-fed4b56236ef,algebra.limited,available,36.99,36.99,high,low,7,namesilo,,,18/09/2026 06:54
-49bb6276-85cd-4e30-9d95-40366a3b4dd6,data.courses,premium,1300,1300,high,medium,4,namecheap,,,03/10/2026 07:17
 ef1e7244-5f0d-4497-b19b-3d8a4bb7bf68,geometry.date,premium,310.7,51.95,high,low,8,spaceship,,,29/09/2026 20:49
 c65ecaa0-439b-4a2d-80a5-90c4e22e4367,calculus.osaka,available,32.98,41.98,high,low,8,namecheap,,,30/09/2026 00:56
 c5003bd2-1e90-4f80-a77e-112907169d94,analysis.town,available,5.57,30.15,high,low,8,dynadot,,,04/10/2026 05:23
 33e41571-a784-4564-adfa-3dae2d4d195d,arithmetic.porn,available,69.98,154.98,high,low,10,namecheap,,,02/10/2026 15:56
 c441e77b-8189-4690-88e7-4a62b76f45a8,geometry.fan,available,57.98,68.98,high,low,8,namecheap,,,29/09/2026 20:49
 994932f7-e7d7-4190-9a1c-f58ece85557f,arithmetic.singles,available,9.49,33.99,high,low,10,namesilo,,,02/10/2026 15:56
-8292043e-8114-425d-b950-f8b30da07d88,data.football,resell,,,high,medium,4,"Go France Domains, LLC",03/06/2015 16:00,03/06/2027 16:00,03/10/2026 07:17
 e7c69e40-f919-46f5-bb9c-e9bb52d60ea7,statistics.kiwi,premium,62.04,62.04,high,low,10,dynadot,,,30/09/2026 11:51
 2b5d8251-d364-4404-ba27-70504287afd5,calculus.irish,available,7.49,22.49,high,low,8,namesilo,,,30/09/2026 00:56
 3d816406-61a7-4834-918b-df098b7cad91,statistics.spot,premium,109.69,109.69,high,low,10,porkbun,,,30/09/2026 11:51
 af0899f6-131e-4152-b3f7-ad5babb29a6d,analysis.watch,available,2.79,35.39,high,low,8,spaceship,,,04/10/2026 05:23
-be8dfe20-0142-4404-82f9-b3e26381aa18,data.bargains,premium,78.54,78.54,high,medium,4,namesilo,,,03/10/2026 07:17
 8ead6cd7-6156-4ae0-8069-eb8a5a4aa593,statistics.dog,available,50.2,50.2,high,low,10,cloudflare,,,30/09/2026 11:51
 8e24d6da-8f84-4fd1-acd4-3510354cc10b,algebra.music,available,47.98,52.48,high,low,7,namecheap,,,18/09/2026 06:54
 e7db28d9-a250-4872-ade0-6426abb31359,arithmetic.melbourne,available,58,58,high,low,10,namesilo,,,02/10/2026 15:56
 055e4833-2a6e-4acf-9225-c1415409b575,logic.careers,available,16.27,59.07,high,medium,5,dynadot,,,01/10/2026 02:39
+035272d7-feb1-4ee3-9177-d84fdb31a25e,data.qpon,premium,550,21.94,high,medium,4,dynadot,,,04/10/2026 16:15
 679970e0-1966-4588-a35b-61d0eae4adb2,arithmetic.attorney,available,49.88,49.88,high,low,10,spaceship,,,02/10/2026 15:56
-484bb4ca-c400-4aee-905c-8a049d1b7b0c,data.dentist,premium,207.2,207.2,high,medium,4,spaceship,,,03/10/2026 07:17
 c793ae1f-e9d9-4eb6-95b7-313dea0e78cc,algebra.talk,premium,71.4,71.4,high,low,7,namesilo,,,18/09/2026 06:54
 f3e64444-29c6-4caa-9d8d-70ea2615a2c1,statistics.city,available,5.38,22.97,high,low,10,spaceship,,,30/09/2026 11:51
-daf033d8-89a0-47ed-949d-433d36bce99f,calculus.download,available,4.32,5.35,high,low,8,spaceship,,,30/09/2026 00:56

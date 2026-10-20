@@ -1,10 +1,10 @@
-# One-Word Mathematics Domain Names (228,502)
+# One-Word Mathematics Domain Names (229,088)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-228%2C502%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-229%2C088%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection contains one-word domain names built around mathematics-related concepts, spanning 506 different TLDs. The median ask across the set is about $470, giving a quick pricing reference. Updated daily, it helps investors and founders compare cost and coverage before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **228,502 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **229,088 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 228,502 domains · **Median ask:** $215.88 · **High-demand under $2,500:** 289
+**Public extract:** 1,000 rows · **Live catalog:** 229,088 domains · **Median ask:** $216.25 · **High-demand under $2,500:** 289
 
-**Last updated:** 2026-10-19
+**Last updated:** 2026-10-20
 **Canonical page:** `https://unique.domains/domains/sector/mathematics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| data.car        | available | $1,863.20  | $2,064.20     | high           | medium | 4      | spaceship                                                 |
-| data.sarl       | resell    | $42.90     | $42.90        | high           | medium | 4      | GoDaddy.com, LLC                                          |
-| data.dating     | premium   | $828.20    | $828.20       | high           | medium | 4      | spaceship                                                 |
-| math.actor      | available | $34.20     | $34.20        | high           | medium | 4      | cloudflare                                                |
-| geometry.bot    | resell    | $78.98     | —             | high           | low    | 8      | namecheap                                                 |
-| data.forex      | premium   | $1,035.20  | $1,035.20     | high           | medium | 4      | spaceship                                                 |
-| math.adult      | available | $95.20     | $95.20        | high           | medium | 4      | cloudflare                                                |
-| geometry.io     | resell    | $10,247.65 | $73.99        | high           | low    | 8      | GrepApps Jors Inc                                         |
-| data.lawyer     | premium   | $4,140     | $4,140        | high           | medium | 4      | namesilo                                                  |
-| math.barcelona  | available | $25.04     | $25.04        | high           | medium | 4      | spaceship                                                 |
-| mathematics.net | resell    | $19,550    | $23.99        | high           | low    | 11     | Network Solutions, LLC                                    |
-| data.moi        | premium   | $218.86    | $218.86       | high           | medium | 4      | porkbun                                                   |
-| math.clothing   | available | $10.81     | $26.26        | high           | medium | 4      | porkbun                                                   |
-| data.boutique   | resell    | —          | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| data.rest       | premium   | $1,719.89  | $2,456.76     | high           | medium | 4      | porkbun                                                   |
-| math.credit     | available | $80.20     | $80.20        | high           | medium | 4      | cloudflare                                                |
-| data.expert     | resell    | —          | —             | high           | medium | 4      | Go Canada Domains, LLC                                    |
-| math.autos      | premium   | $2,660     | $2,660        | high           | medium | 4      | namesilo                                                  |
-| math.football   | available | $20.90     | $20.90        | high           | medium | 4      | spaceship                                                 |
-| data.land       | resell    | —          | —             | high           | medium | 4      | Dynadot Inc                                               |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                     |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| data.furniture    | available | $27.99     | $94.99        | high           | medium | 4      | namesilo                      |
+| geometry.io       | resell    | $10,247.65 | $73.99        | high           | low    | 8      | GrepApps Jors Inc             |
+| data.bargains     | premium   | $68.51     | $68.51        | high           | medium | 4      | spaceship                     |
+| data.ryukyu       | available | $17.98     | $22.98        | high           | medium | 4      | namecheap                     |
+| geometry.services | resell    | $51.98     | —             | high           | low    | 8      | GoDaddy.com, LLC              |
+| data.boo          | premium   | $648.70    | $648.70       | high           | medium | 4      | namecheap                     |
+| data.viajes       | available | $35.20     | $35.20        | high           | medium | 4      | cloudflare                    |
+| arithmetic.org    | resell    | $10,235    | $17.99        | high           | low    | 10     | Dynadot Inc                   |
+| data.cfd          | premium   | $621.20    | $1,242.20     | high           | medium | 4      | spaceship                     |
+| math.associates   | available | $18.99     | $38.99        | high           | medium | 4      | namesilo                      |
+| mathematics.net   | resell    | $19,550    | $23.99        | high           | low    | 11     | Network Solutions, LLC        |
+| data.college      | premium   | $13,800    | $13,800       | high           | medium | 4      | namesilo                      |
+| math.cars         | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                      |
+| data.cx           | resell    | —          | —             | high           | medium | 4      | West263 International Limited |
+| data.courses      | premium   | $1,092.18  | $1,092.18     | high           | medium | 4      | porkbun                       |
+| math.coffee       | available | $6.41      | $34.36        | high           | medium | 4      | spaceship                     |
+| data.delivery     | resell    | —          | —             | high           | medium | 4      | Spaceship, Inc.               |
+| data.dentist      | premium   | $242       | $242          | high           | medium | 4      | namesilo                      |
+| math.creditcard   | available | $129.20    | $129.20       | high           | medium | 4      | spaceship                     |
+| data.fail         | resell    | —          | —             | high           | medium | 4      | NameCheap, Inc.               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 228,502 live domains                                 |
+| 1,000-row public sample | 229,088 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 289 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Mathematics Domain Names*. Version 2026-10-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Mathematics Domain Names*. Version 2026-10-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
